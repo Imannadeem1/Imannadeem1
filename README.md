@@ -1,4 +1,4 @@
-![logo](https://github.com/Imannadeem1/Imannadeem1/blob/main/Banner.png)
+![logo](https://github.com/Imannadeem1/Imannadeem1/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Iman Nadeem</h1>
 <h3 align="center">"QA Engineer | Passionate about Test Automation & Quality Assurance"</h3>
 
